@@ -1,9 +1,4 @@
 # Quantum-effects-on-cryptography
-Absolutely — here’s a **clean, professional GitHub README** focused **only on preprocessing + exploratory visuals**, and **explicitly stating that training & evaluation are in progress**.
-This is written at a **junior data scientist / ML-in-progress** level (which is exactly where you are — and that’s a good thing).
-
-You can copy-paste this directly as `README.md`.
-
 ---
 
 # Quantum Business Adoption – Data Preprocessing & Exploratory Analysis
