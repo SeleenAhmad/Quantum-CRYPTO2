@@ -180,9 +180,4 @@ Planned additions:
 This project uses a **synthetic / simulated dataset** for educational and analytical purposes.
 Results should not be interpreted as real-world financial advice.
 
----
-
-
-
-You’re building this the *right* way — step by step 👏
 
